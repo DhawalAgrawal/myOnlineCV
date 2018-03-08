@@ -46,7 +46,7 @@ Follow this guide to setup your development enviroment.
 	 Click files on the right side of the window
    Manage sites
    New
-   Site name HBTUMAIL
+   Site name myOnlineCV
    Local root folder < path\xampp\htdocs\myOnlineCV\
    HTTP Address < http://localhost/myOnlineCV/
    Server-Mode PHP MySQL
@@ -62,7 +62,7 @@ Follow this guide to setup your development enviroment.
 	```
 	Start MySQL as Admin in XAMMP
 	Create new database called myOnlineCV
-	import database < path\HBTUMAIL\sql\myOnlineCV.sql
+	import database < path\myOnlineCV\sql\myOnlineCV.sql
 	```
 
 That's it, now start development at [http://localhost/myOnlineCV/index.php](http://localhost/myOnlineCV/index.php) in your browser
