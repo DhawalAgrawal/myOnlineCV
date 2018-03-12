@@ -4,7 +4,12 @@
 <div id="head">
 <div id="logo"><img src="IMAGES/mylogo.png" alt="TEMPLOGO" style="height: 45px; margin: 9px 0; float: left;"/>
 <div id="logoname">Dhawal</div>
-</div>
+</div><div id="social" style="float:  right; margin: -10px 90px; width: 204px; "><div id="c4-L-info-a" style="float:none">
+                <div id="c4-L-info-s"><a href="https://github.com/DhawalAgrawal" style="color: #e2dede; font-size: 34px;" target="_blank"><i class="fab fa-github"></i></a></div>
+                <div id="c4-L-info-s"><a href="https://www.facebook.com/dhawal.agrawal.10" style="color: #e2dede; font-size: 34px;" target="_blank"><i class="fab fa-facebook"></i></a></div>
+                <div id="c4-L-info-s"><a href="https://www.hackerrank.com/coding_wizard" style="background: #e2dede; border: 2px solid #e2dede;
+    border-radius: 3px;" target="_blank"><img src="IMAGES/HACKER.png" alt="HACKER" width="25px" /></a></div>
+                </div></div>
 </div>
 <!-----------------------Header End----------------------->
 
@@ -18,7 +23,7 @@
           		<div id="c0-L-info"><img src="IMAGES/22045937_1322627981197169_4115721413201365603_n.jpg"  alt="my pic" /></div>
                 </div>
                 <div id="c0-R"><h1>Dhawal Agrawal</h1>
-                <h2> CODER &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;WEB DEVELOPER&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;ENTREPRENEUR </h2>
+                <h2> CODER &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;FULL STACK DEVELOPER&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;ENTREPRENEUR </h2>
                 <p>I'm a sophomore at HBTU-Kanpur. Being an IT student, I have a keen interest in Competitive Programming, Web Development, Ethical Hacking and Machine Learning. I have a passion for web design and love to create for web and mobile devices. I'm also the founder and president of <a href="http://decoder.co.in" target="_blank">DECODER</a> (coding club of our university). The picture you see on the left is of one of the seminars I organised as a part of the club.</br></br> Besides coding, I love travelling, cooking, playing badminton and also exploring new Aerospace Technology.</p>
                 <div id="c0-R-info"><a href="https://www.visualcv.com/dhawal-agrawal/pdf" target="_blank" download>DOWNLOAD RESUME&nbsp;&nbsp;<i class="fas fa-download"></i></a>
                 </div>
