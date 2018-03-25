@@ -4,7 +4,8 @@
 <div id="head">
 <div id="logo"><img src="IMAGES/mylogo.png" alt="TEMPLOGO" style="height: 45px; margin: 9px 0; float: left;"/>
 <div id="logoname">Dhawal</div>
-</div><div id="social" style="float:  right; margin: -10px 90px; width: 204px; "><div id="c4-L-info-a" style="float:none">
+</div><div id="social" style="float:  right; margin: -10px 90px; width: 205px; "><div id="c4-L-info-a" style="float:none">
+                <div id="c4-L-info-s"><a href="https://www.linkedin.com/in/dhawalagrawal/" style="color: #e2dede; font-size: 34px;" target="_blank"><i class="fab fa-linkedin"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://github.com/DhawalAgrawal" style="color: #e2dede; font-size: 34px;" target="_blank"><i class="fab fa-github"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://www.facebook.com/dhawal.agrawal.10" style="color: #e2dede; font-size: 34px;" target="_blank"><i class="fab fa-facebook"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://www.hackerrank.com/coding_wizard" style="background: #e2dede; border: 2px solid #e2dede;
@@ -204,6 +205,7 @@
                 <div id="c4-L-info-a"><div id="c4-L-info-i"><i class="fas fa-home"></i></div>
                 <div id="c4-L-info-d" style="    padding: 7px 0 0 25px;"><a href="https://goo.gl/maps/xZbaxgJVy232" target="_blank">A-47, Indrapuri, Agra-5,</br>Uttar Pradesh 285005</a></div></div>
                 <div id="c4-L-info-a">
+                <div id="c4-L-info-s"><a href="https://www.linkedin.com/in/dhawalagrawal/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://github.com/DhawalAgrawal" target="_blank"><i class="fab fa-github"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://www.facebook.com/dhawal.agrawal.10" target="_blank"><i class="fab fa-facebook"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://www.hackerrank.com/coding_wizard" target="_blank"><img src="IMAGES/HACKER.png" alt="HACKER" width="35px" /></a></div>

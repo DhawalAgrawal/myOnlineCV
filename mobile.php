@@ -199,6 +199,7 @@
                 <div id="c4-L-info-a"><div id="c4-L-info-i"><i class="fas fa-home"></i></div>
                 <div id="c4-L-info-d" style="    padding: 7px 0 0 25px;"><a href="https://goo.gl/maps/xZbaxgJVy232" target="_blank">A-47, Indrapuri, Agra-5,</br>Uttar Pradesh 285005</a></div></div>
                 <div id="c4-L-info-a">
+                <div id="c4-L-info-s"><a href="https://www.linkedin.com/in/dhawalagrawal/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://github.com/DhawalAgrawal" target="_blank"><i class="fab fa-github"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://www.facebook.com/dhawal.agrawal.10" target="_blank"><i class="fab fa-facebook"></i></a></div>
                 <div id="c4-L-info-s"><a href="https://www.hackerrank.com/coding_wizard" target="_blank"><img src="IMAGES/HACKER.png" alt="HACKER" width="35px" /></a></div>
