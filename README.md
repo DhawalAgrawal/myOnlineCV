@@ -8,7 +8,7 @@
 
 >This is a portal to my online cv. http://dhawalagrawal.decoder.co.in/
 
-# License
+## License
 This repository is licensed under MIT License
 
 ## How to Setup
