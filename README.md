@@ -43,7 +43,7 @@ Follow this guide to setup your development enviroment.
 
 	```
 	Open the index.php page in Dreamweaver
-	 Click files on the right side of the window
+	Click files on the right side of the window
    Manage sites
    New
    Site name myOnlineCV
